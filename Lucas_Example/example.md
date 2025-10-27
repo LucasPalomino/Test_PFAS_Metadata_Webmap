@@ -1,6 +1,6 @@
 ## Lucas' example commit.
 
-'example.geojson' - The GeoJSON file represents a coordinate point of the Dinagat Islands
+`example.geojson` - The GeoJSON file represents a coordinate point of the Dinagat Islands
 
 ---
 
